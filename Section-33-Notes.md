@@ -1,0 +1,12 @@
+Section 33: Bonus: Data Structures & Algorithms Introduction 0 / 11|1hr  | 11min
+- [ ] 544. Module Introduction  | 2min
+- [ ] 545. What are "Data Structures" "Algorithms"? | 4min
+- [ ] 546. A First Example | 10min
+- [ ] 547. Solving the Same Problem Differently | 7min
+- [ ] 548. Performance & The "Big O" Notation | 12min
+- [ ] 549. More Time Complexities & Comparing Algorithms | 4min
+- [ ] 550. More on Big O | 5min
+- [ ] 551. More Examples | 10min
+- [ ] 552. Diving into Data Structures & Time Complexities | 12min
+- [ ] 553. Where to Learn More & Wrap Up | 3min
+- [ ] 554. Useful Resources & Links | 1min
